@@ -9,3 +9,6 @@ class Dog
    @breed = breed_type
  end
 end
+
+class Person
+end
